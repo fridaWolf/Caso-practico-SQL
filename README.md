@@ -18,16 +18,20 @@ En este proyecto se analizará una base de datos de un restaurante mediante el u
 <img width="287" height="94" alt="image" src="https://github.com/user-attachments/assets/e12c2d6c-abb2-4cc6-b8b2-98923ec1ec1c" />
 
 #Explorar la tabla “order_details” para conocer los datos que han sido recolectados.
+
 1. Encontrar Cuántos pedidos únicos se realizaron en total
    <img width="161" height="94" alt="image" src="https://github.com/user-attachments/assets/ea8eecba-a7c1-426e-be11-10cfcae03ccb" />
+
 2. Los 7 pedidos que tuvieron el mayor número de artículos
    <img width="372" height="320" alt="image" src="https://github.com/user-attachments/assets/52cb7160-3303-4a6f-8434-9862446d455e" />
+
 3. Fecha del primer pedido y el último pedido
    <img width="398" height="98" alt="image" src="https://github.com/user-attachments/assets/6ebb9456-1000-4701-8751-c38213a3d12a" />
+
 4. Los pedidos que se hicieron entre el '2023-01-01' y el '2023-01-05'
    <img width="168" height="100" alt="image" src="https://github.com/user-attachments/assets/5b1d4267-086b-4d0d-819d-507cf8bd064e" />
 
-##Realizar un left join entre entre order_details y menu_items con el identificador
+#Realizar un left join entre entre order_details y menu_items con el identificador
 item_id(tabla order_details) y menu_item_id(tabla menu_items).
 
 <img width="1536" height="674" alt="image" src="https://github.com/user-attachments/assets/c4fc0fa6-35a9-465a-8721-94da87658498" />
